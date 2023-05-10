@@ -4,7 +4,7 @@ This is my home page! My name is Eduardo Davis and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/Edavis04/Edavis04.github.io
+My GitHub page is http://github.com/Edavis04
 
 ### CPSC 120
 
